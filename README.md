@@ -15,7 +15,7 @@ docker run --rm -it \
     kitsudaiki/ladybird-browser-test
 ```
 
-(tested it on my Kubuntu only so far. So I'm not sure, if this way works for all linux host systems)
+**The image contains the complete uncleaned build-directory, so the docker image is quite big. Tested it on my Kubuntu only so far. So I'm not sure, if this way works for all linux host systems.**
 
 ## How to build
 
